@@ -1,0 +1,17 @@
+.card{
+    border-radius: 0% !important;
+}
+
+.main-title{
+    font-size: 6em;
+    padding-top: 5%;
+    padding-left: 2%;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+.main-text{
+    font-size: 3em;
+    padding-left: 4%;
+    color: white;
+    text-shadow: 2px 2px black;
+}

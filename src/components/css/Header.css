@@ -1,0 +1,17 @@
+.navbar{
+    background: transparent !important;
+}
+
+.user{
+    border-radius: 0 !important;
+    background-color: 2280cd !important;
+    width: 100px;
+}
+
+ul>li{
+    margin-right: 30px;
+}
+
+.logo{
+    text-decoration: none;
+}
